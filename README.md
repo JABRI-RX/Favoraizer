@@ -9,3 +9,4 @@ There are Some Thing I have added Such as
 - The Ability to open Google With the word you selected
 - Delete words
 as you can see In the video
+![til](./phone.gif)
