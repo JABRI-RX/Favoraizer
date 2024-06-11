@@ -1,4 +1,4 @@
-# first_app
+# Favoratizer
 
 A new Flutter project.
 
