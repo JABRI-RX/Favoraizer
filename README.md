@@ -1,16 +1,11 @@
 # Favoratizer
 
-A new Flutter project.
+Favoraizer Is An App that gives you Random Word From the English Dictionary.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About This App
+This app was made in Flutter using Their First App Tutorial 
+There are Some Thing I have added Such as 
+- Animation For The Big Card
+- The Ability to open Google With the word you selected
+- Delete words
+as you can see In the video
